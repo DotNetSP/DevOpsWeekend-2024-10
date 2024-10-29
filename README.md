@@ -15,7 +15,7 @@ Apresentações/talks que aconteceram durante o evento:
 
 * **Monitoramento e Observabilidade com Grafana: visão geral e alternativas de dashboards para o Microsoft Azure - Renato Groffe (Microsoft MVP, Docker Captain, MTAC) e Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias abordadas: **Grafana, Docker, Kubernetes, Linux, Azure Managed Grafana, Azure DevOps, GitHub Actions, React Native, macOS, Azure App Service, Azure Pipelines**
+Tecnologias abordadas: **Grafana, Docker, Kubernetes, Linux, Azure Managed Grafana, Azure DevOps, GitHub Actions, React Native, macOS, Azure App Service, Azure Pipelines, ARM Templates, Bicep**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
@@ -27,11 +27,12 @@ Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de
 
 ![Banner do evento](img/banner.png)
 
-![Renato palestrando](img/m-03.jpg)
+![Renato palestrando](img/d-20.jpg)
 
-![Renato palestrando 2](img/m-10.jpg)
+![Renato palestrando 2](img/d-29.jpg)
 
-![Ramon palestrando](img/m-18.jpg)
+![Milton palestrando 2](img/d-15.jpg)
 
-![Ramon palestrando](img/m-30.jpg)
+![Milton palestrando 2](img/d-16.jpg)
 
+![Renato e Milton palestrando 2](img/d-31.jpg)
