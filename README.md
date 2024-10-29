@@ -9,9 +9,11 @@ Organizadores:
 Número de participantes: **12 pessoas**
 
 Apresentações/talks que aconteceram durante o evento:
-* **Arquiteturas baseadas em Microsserviços e opcões para implementação no Azure - Renato Groffe (Microsoft MVP, MTAC)**
+* **Trabalhando com Resources no Azure Pipelines - Milton Camara Gomes - Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-* **Desenvolvendo o primeiro Microsserviço em 30 minutos usando C# e Devprime - Ramon Durães (Microsoft MVP Reconnect)**
+* **React Native + Automação de Build de Mobile Apps: exemplos de utilização com Azure DevOps e GitHub Actions - Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
+
+* **Monitoramento e Observabilidade com Grafana: visão geral e alternativas de dashboards para o Microsoft Azure - Renato Groffe (Microsoft MVP, Docker Captain, MTAC) e Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 Tecnologias abordadas: **Grafana, Docker, Kubernetes, Linux, Azure Managed Grafana, Azure DevOps, GitHub Actions, React Native, macOS, Azure App Service, Azure Pipelines**
 
