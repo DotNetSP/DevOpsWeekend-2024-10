@@ -9,7 +9,7 @@ Organizadores:
 Número de participantes: **12 pessoas**
 
 Apresentações/talks que aconteceram durante o evento:
-* **Trabalhando com Resources no Azure Pipelines - Milton Camara Gomes - Milton Camara Gomes (Microsoft MVP, MTAC)**
+* **Trabalhando com Resources no Azure Pipelines - Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 * **React Native + Automação de Build de Mobile Apps: exemplos de utilização com Azure DevOps e GitHub Actions - Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
 
